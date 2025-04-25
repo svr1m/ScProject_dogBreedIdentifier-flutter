@@ -21,6 +21,8 @@ Model training python file is also given.
 - ☁️ **Cloud Sync**  
   All data is securely stored and synced using Firebase.
 
+  - Ai chatbot
+
 ## 🧱 Tech Stack
 
 - **Flutter** - Cross-platform UI toolkit  
@@ -59,17 +61,6 @@ The app uses a pre-trained TensorFlow Lite model to identify dog breeds from use
 - Notifications (reminders)
 - Internet (sync & AI)
 
-## 🧑‍💻 Contributors
-
-- **Sarim Zia** – ML Integration, UI Design, App Development  
-
-## 📷 Screenshots
-
-> *(Include screenshots in the GitHub repo under `/assets/screenshots/` and show here using `![screenshot](assets/screenshots/home.png)` syntax)*
-
-## 📚 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📌 Notes
 
